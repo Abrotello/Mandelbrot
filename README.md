@@ -35,4 +35,4 @@ Los algoritmos para generar fractales como Mandelbrot y Julia son esencialmente 
 
 La belleza de estos fractales radica en su complejidad visual emergente a partir de reglas matemáticas aparentemente simples. Además de su atractivo estético, los fractales tienen aplicaciones en áreas como la teoría del caos, la generación de terrenos realistas, compresión de imágenes y más.
 
-Espero que esta explicación te ayude a entender mejor el contexto matemático y algorítmico detrás de los modelos fractales de Mandelbrot y Julia. ¡Si tienes más preguntas, no dudes en hacerlas!
+🤖❤️🚀
