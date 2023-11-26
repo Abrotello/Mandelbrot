@@ -1,7 +1,6 @@
 # Modelos Fractales 
 Los modelos fractales son representaciones matemáticas de estructuras complejas y geométricas que exhiben auto-similitud a diferentes escalas. Estos modelos se utilizan para describir fenómenos y objetos que no pueden ser representados fácilmente mediante las geometrías euclidianas tradicionales. La idea clave detrás de los fractales es que la misma forma o patrón se repite a diferentes niveles de detalle.
 
-br
 
 Algunos conceptos importantes relacionados con los fractales incluyen:
 
@@ -16,7 +15,7 @@ Algunos conceptos importantes relacionados con los fractales incluyen:
 Los fractales se utilizan en una variedad de campos, como la informática gráfica, la modelización de fenómenos naturales, la generación de paisajes virtuales, la teoría del caos, y en la descripción de estructuras complejas en la naturaleza, como montañas, nubes y sistemas vasculares.
 
 Estos modelos son fascinantes porque capturan la complejidad intrínseca de muchos fenómenos naturales y pueden generar patrones visuales impresionantes. Además, la aplicación de los fractales va más allá de la representación visual y se extiende a áreas como la teoría del caos y la modelización de sistemas dinámicos complejos.
-br
+
 **Conjunto de Mandelbrot:**
 
 El conjunto de Mandelbrot es uno de los fractales más conocidos y estudiados. Se define en el plano complejo, donde cada punto representa un número complejo \(c = c_x + c_yi\). La idea central es determinar si la secuencia generada por la iteración de la función \(z_{n+1} = z_n^2 + c\) permanece acotada o tiende hacia el infinito.
